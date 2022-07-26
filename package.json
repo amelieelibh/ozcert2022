@@ -1,0 +1,11 @@
+{
+  "name": "ozcert2022",
+  "version": "1.0.0",
+  "description": "openzeppeling security certification 2022",
+  "main": "index.js",
+  "author": "amelieelibh",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.10.1"
+  }
+}
